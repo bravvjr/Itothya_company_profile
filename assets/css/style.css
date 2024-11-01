@@ -200,7 +200,7 @@ img {
 
 /* COUNTER */
 #counter {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/pexels-divinetechygirl-1181370.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/pexels-divinetechygirl-1181370.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -275,7 +275,7 @@ img {
     content: "";
     width: 100%;
     height: 70%;
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/pexels-yankrukov-8867482.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/pexels-yankrukov-8867482.jpeg);
     background-position: center;
     background-size: cover;
     position: absolute;
