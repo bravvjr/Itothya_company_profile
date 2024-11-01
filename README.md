@@ -24,7 +24,7 @@ https://github.com/bravvjr/Itothya_company_profile
 ```
 
 # Live Link
-
+https://bravvjr.github.io/Itothya_company_profile/
 ## Technologies used
 HTML: For structure and content.
 CSS: For styling and layout.
