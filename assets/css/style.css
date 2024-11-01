@@ -124,7 +124,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/freepik-export-202411010850319QCb.png);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/freepik-export-202411010850319QCb.jpeg);
     background-position: center;
     background-size: cover;
 }
